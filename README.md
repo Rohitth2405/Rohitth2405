@@ -6,67 +6,65 @@ I am pursuing a **Master's degree in Aerospace Engineering**, with interests in 
 
 ## 🛠️ Technical Interests & Skills
 
-<table align="center">
-  <tr>
-    <th align="center">Technology / Skill</th>
-    <th align="center">Areas of Interest</th>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" nowrap>
-      <img src="https://cdn.simpleicons.org/airbus/00205B" height="24" alt="Aerospace" />
-      <strong> Aerospace Engineering</strong>
-    </td>
-    <td>Aircraft design, aerodynamics, aeroelasticity, and propulsion systems</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" nowrap>
-      <img src="https://cdn.simpleicons.org/ansys/FFB71B" height="24" alt="ANSYS" />
-      <strong> CFD Analysis</strong>
-    </td>
-    <td>ANSYS Fluent, aerodynamic simulations, mesh generation, and post-processing</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" nowrap>
-      <img src="https://cdn.simpleicons.org/dassaultsystemes/005386" height="24" alt="Dassault Systèmes" />
-      <strong> CAD/CAM</strong>
-    </td>
-    <td>3D modelling, engineering design, and manufacturing workflows</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" nowrap>
-      <img src="https://cdn.simpleicons.org/mathworks/0076A8" height="24" alt="MATLAB" />
-      <strong> MATLAB</strong>
-    </td>
-    <td>Numerical methods, engineering calculations, data analysis, and simulation</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" nowrap>
-      <img src="https://cdn.simpleicons.org/python/3776AB" height="24" alt="Python" />
-      <strong> Python</strong>
-    </td>
-    <td>Scientific computing, data processing, automation, and visualisation</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" nowrap>
-      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="Scikit-learn" />
-      <strong> Machine Learning</strong>
-    </td>
-    <td>Regression models, Random Forest, neural networks, and predictive modelling</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" nowrap>
-      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="24" alt="PyTorch" />
-      <strong> Physics-Informed ML</strong>
-    </td>
-    <td>Physics-informed neural networks (PINNs), hybrid ML models, and surrogate modelling</td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" nowrap>
-      <img src="https://cdn.simpleicons.org/ardupilot/0033A0" height="24" alt="ArduPilot" />
-      <strong> Drone Programming</strong>
-    </td>
-    <td>UAV systems, flight-control concepts, and autonomous systems</td>
-  </tr>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="30%">Technology / Skill</th>
+      <th align="center">Areas of Interest</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle" nowrap>
+        <img src="https://cdn.simpleicons.org/airbus/00205B" width="22" height="22" alt="Aerospace logo" /> <strong>Aerospace Engineering</strong>
+      </td>
+      <td>Aircraft design, aerodynamics, aeroelasticity, and propulsion systems</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" nowrap>
+        <img src="https://cdn.simpleicons.org/ansys/FFB71B" width="22" height="22" alt="ANSYS logo" /> <strong>CFD Analysis</strong>
+      </td>
+      <td>ANSYS Fluent, aerodynamic simulations, mesh generation, and post-processing</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" nowrap>
+        <img src="https://cdn.simpleicons.org/dassaultsystemes/005386" width="22" height="22" alt="Dassault Systèmes logo" /> <strong>CAD/CAM</strong>
+      </td>
+      <td>3D modelling, engineering design, and manufacturing workflows</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" nowrap>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="22" height="22" alt="MATLAB logo" /> <strong>MATLAB</strong>
+      </td>
+      <td>Numerical methods, engineering calculations, data analysis, and simulation</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" nowrap>
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="22" height="22" alt="Python logo" /> <strong>Python</strong>
+      </td>
+      <td>Scientific computing, data processing, automation, and visualisation</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" nowrap>
+        <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="22" height="22" alt="Scikit-learn logo" /> <strong>Machine Learning</strong>
+      </td>
+      <td>Regression models, Random Forest, neural networks, and predictive modelling</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" nowrap>
+        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="22" height="22" alt="PyTorch logo" /> <strong>Physics-Informed ML</strong>
+      </td>
+      <td>PINNs, hybrid machine-learning models, and surrogate modelling</td>
+    </tr>
+<tr>
+  <td align="center" valign="middle" nowrap>
+    <img src="https://img.shields.io/badge/UAV-0033A0?style=flat"
+         height="22" alt="UAV" />
+    <strong> Drone Programming</strong>
+  </td>
+  <td>UAV systems, flight-control concepts, and autonomous systems</td>
+</tr>
+  </tbody>
 </table>
 
 ## Research Interests

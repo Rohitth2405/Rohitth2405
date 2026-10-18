@@ -4,23 +4,70 @@
 I am pursuing a **Master's degree in Aerospace Engineering**, with interests in computational aerospace engineering, aerodynamic analysis, aircraft design, and engineering simulation. I enjoy applying programming and numerical methods to aerospace problems, from modelling and simulation to data-driven prediction.
 
 
-## Technical Interests & Skills
+## 🛠️ Technical Interests & Skills
 
-
-<div align="center">
-
-| Software / Skill | Focus |
-|:---|:---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="28" height="28" alt="MATLAB" /> **MATLAB** | Engineering calculations, numerical methods and simulation |
-| <img src="https://img.shields.io/badge/SOLIDWORKS-EF2027?style=flat&logo=dassaultsystemes&logoColor=white" height="22" alt="SOLIDWORKS" /> **CAD/CAM** | 3D modelling, engineering design and manufacturing |
-| <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logo=ansys&logoColor=black" height="22" alt="ANSYS" /> **CFD Analysis** | Aerodynamic simulation and post-processing |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="28" height="28" alt="Arduino" /> **Drone Programming** | UAV systems and programming |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python" /> **Python** | Engineering calculations, data processing and automation |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28" height="28" alt="Machine Learning" /> **Machine Learning** | Regression, predictive modelling and aerospace surrogate models |
-| **Aerospace Engineering** | Aerodynamics, aeroelasticity, propulsion and aircraft design |
-
-</div>
-
+<table align="center">
+  <tr>
+    <th align="center">Technology / Skill</th>
+    <th align="center">Areas of Interest</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" nowrap>
+      <img src="https://cdn.simpleicons.org/airbus/00205B" height="24" alt="Aerospace" />
+      <strong> Aerospace Engineering</strong>
+    </td>
+    <td>Aircraft design, aerodynamics, aeroelasticity, and propulsion systems</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" nowrap>
+      <img src="https://cdn.simpleicons.org/ansys/FFB71B" height="24" alt="ANSYS" />
+      <strong> CFD Analysis</strong>
+    </td>
+    <td>ANSYS Fluent, aerodynamic simulations, mesh generation, and post-processing</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" nowrap>
+      <img src="https://cdn.simpleicons.org/dassaultsystemes/005386" height="24" alt="Dassault Systèmes" />
+      <strong> CAD/CAM</strong>
+    </td>
+    <td>3D modelling, engineering design, and manufacturing workflows</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" nowrap>
+      <img src="https://cdn.simpleicons.org/mathworks/0076A8" height="24" alt="MATLAB" />
+      <strong> MATLAB</strong>
+    </td>
+    <td>Numerical methods, engineering calculations, data analysis, and simulation</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" nowrap>
+      <img src="https://cdn.simpleicons.org/python/3776AB" height="24" alt="Python" />
+      <strong> Python</strong>
+    </td>
+    <td>Scientific computing, data processing, automation, and visualisation</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" nowrap>
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="Scikit-learn" />
+      <strong> Machine Learning</strong>
+    </td>
+    <td>Regression models, Random Forest, neural networks, and predictive modelling</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" nowrap>
+      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="24" alt="PyTorch" />
+      <strong> Physics-Informed ML</strong>
+    </td>
+    <td>Physics-informed neural networks (PINNs), hybrid ML models, and surrogate modelling</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" nowrap>
+      <img src="https://cdn.simpleicons.org/ardupilot/0033A0" height="24" alt="ArduPilot" />
+      <strong> Drone Programming</strong>
+    </td>
+    <td>UAV systems, flight-control concepts, and autonomous systems</td>
+  </tr>
+</table>
 
 ## Research Interests
 

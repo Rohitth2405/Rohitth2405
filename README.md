@@ -1,7 +1,7 @@
 
 # Hi, I'm an Aerospace Engineering Master's Student 👋
 
-I am pursuing a **Master's degree in Aerospace Engineering in France**, with interests in computational aerospace engineering, aerodynamic analysis, aircraft design, and engineering simulation. I enjoy applying programming and numerical methods to aerospace problems, from modelling and simulation to data-driven prediction.
+I am pursuing a **Master's degree in Aerospace Engineering**, with interests in computational aerospace engineering, aerodynamic analysis, aircraft design, and engineering simulation. I enjoy applying programming and numerical methods to aerospace problems, from modelling and simulation to data-driven prediction.
 
 
 ## Technical Interests & Skills

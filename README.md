@@ -3,9 +3,11 @@
 
 I am pursuing a **Master's degree in Aerospace Engineering in France**, with interests in computational aerospace engineering, aerodynamic analysis, aircraft design, and engineering simulation. I enjoy applying programming and numerical methods to aerospace problems, from modelling and simulation to data-driven prediction.
 
-## Technical Interests & Skills
 
 ## Technical Interests & Skills
+
+
+<div align="center">
 
 | Software / Skill | Focus |
 |:---|:---|
@@ -14,8 +16,11 @@ I am pursuing a **Master's degree in Aerospace Engineering in France**, with int
 | <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logo=ansys&logoColor=black" height="22" alt="ANSYS" /> **CFD Analysis** | Aerodynamic simulation and post-processing |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="28" height="28" alt="Arduino" /> **Drone Programming** | UAV systems and programming |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" alt="Python" /> **Python** | Engineering calculations, data processing and automation |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28" height="28" alt="PyTorch" /> **Machine Learning** | Regression, predictive modelling and aerospace surrogate models |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="28" height="28" alt="Machine Learning" /> **Machine Learning** | Regression, predictive modelling and aerospace surrogate models |
 | **Aerospace Engineering** | Aerodynamics, aeroelasticity, propulsion and aircraft design |
+
+</div>
+
 
 ## Research Interests
 

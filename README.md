@@ -5,14 +5,39 @@ I am pursuing a **Master's degree in Aerospace Engineering in France**, with int
 
 ## Technical Interests & Skills
 
-| Software / Skill | Focus |
-|---|---|
-| ![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=mathworks&logoColor=white) **MATLAB** | Engineering calculations, numerical methods, simulation and data visualisation |
-| ![CAD/CAM](https://img.shields.io/badge/CAD%2FCAM-blue?logo=autodesk&logoColor=white) **CAD/CAM** | 3D modelling, engineering design and manufacturing workflows |
-| ![ANSYS](https://img.shields.io/badge/ANSYS-yellow?logo=ansys&logoColor=black) **CFD Analysis** | Aerodynamic simulation, post-processing and flow-result interpretation |
-| ![Arduino](https://img.shields.io/badge/UAV-gray?logo=arduino&logoColor=white) **Drone Programming** | UAV systems and programming applications |
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python & Machine Learning** | Data analysis, regression and surrogate modelling |
-| **Aerospace Engineering** | Aerodynamics, aeroelasticity, propulsion and aircraft design |
+
+## Technical Interests & Skills
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="32" height="32" alt="MATLAB" align="center" />
+  <strong> MATLAB</strong> — Engineering calculations, numerical methods and simulation
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SOLIDWORKS-EF2027?style=flat&logo=dassaultsystemes&logoColor=white" height="24" alt="SOLIDWORKS" align="center" />
+  <strong> CAD/CAM</strong> — 3D modelling, engineering design and manufacturing
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logo=ansys&logoColor=black" height="24" alt="ANSYS" align="center" />
+  <strong> CFD Analysis</strong> — Aerodynamic simulation and post-processing
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32" height="32" alt="Arduino" align="center" />
+  <strong> Drone Programming</strong> — UAV systems and programming
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" align="center" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32" height="32" alt="PyTorch" align="center" />
+  <strong> Python & Machine Learning</strong> — Data analysis, regression and surrogate modelling
+</p>
+
+<p>
+  <strong> Aerospace Engineering</strong> — Aerodynamics, aeroelasticity, propulsion and aircraft design
+</p>
+
 
 ## Research Interests
 
